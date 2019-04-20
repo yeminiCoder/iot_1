@@ -1,7 +1,6 @@
 ##########################
 # Author : Haidara
 # date : 04/01/2019
-# licence: MIT
 ##########################
 
 #il faut installer pip install  pymysql
